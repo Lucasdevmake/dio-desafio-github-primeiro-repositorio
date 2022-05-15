@@ -1,0 +1,154 @@
+Pensamento Computacional - Processo de pensamento envolvido na expressão
+de soluções em passos computacionais ou algoritmos que podem ser implementador
+no computador 
+- Sistemático e Eficiente: Formulação de problemas e resolução de problemas
+- Que humanos e máquinas consigam resolver
+Não é disciplina é habilidade generalista(Matemática, leitura, escrita).
+- Identificar mecanismos, recursos comuns, detalhes importantes.
+
+Baseado em 4 pilares: 
+Decomposição: Dado um grade problema, divida em menores, pois são mais fáceis
+e gerenciáveis. Dividir um problema em subproblemas.
+Pode ser sequencial tem que resolver em ordem.
+Análise - encontra partes principais, quebra e examina as partes menores.
+Síntese - quebra e recombina as partes dando sentido
+
+Reconhecimento de Padrões: Modelo base, Estrutura invariante, repetição.
+Generalizar, com o objetivo de obter resolução para problemas diferentes.
+
+Abstração: Processo intelectual de isolamento de um objeto da realidade,
+Pegar elementos principais de um objeto, estrapolar para o mundo abstrato
+de maneira a tornalo geral.
+
+Design de algoritmos: Análise Estudo e definição dos dados de entrada e saida
+Descreve o problema
+Processo de resolução de problemas passo a passo utilizando instruções sem
+dubiedade.
+Construção do algoritmo: Compreensão do problema, definir dados de entrada,
+definir processamento, definir dados de saída, utilizar metodo de construção,
+teste e diagnóstico.
+Narrativa: utilização da linguagem natural
+Fluxograma: utilização de simbolos, estrutura gráfica
+Pseudocódigo: Portugol pseudolinguagem
+
+O pensamento é um processo continuo, algorítmo: Definir solução, testar, 
+aperfeiçoar. Refinamento, teste, análise
+
+Competências desenvolvidas através do pensamento computacional: Pensamento
+sistemático, colaboração dentro da equipe, criatividade e design, facilitador
+
+Habilidades Complementares:
+- Raciocínio lógico - pensamento estruturado, raciocínio, que permite 
+encontrar conclusão ou determinar a resolução de um problema;
+
+Indução -  A partir de observação cria-se Leis e teorias;
+Dedução - A partir de leis e teorias se constroem pensamentos;
+Abdução - A partir de uma conclusão tira uma premissa - a partir de uma 
+conclusão se constroe alguma coisa EX: o chao ta molhado, então choveu.
+
+Inferência: Sintétita(Abdução, Indução) e Analitica(Dedução).
+----------------------------------------------------------------------------
+O que é lógica? FOrma de pensamento estruturada que auxilia a determinar
+o que é verdadeiro ou não.
+Lógica de programação: Organização e planejamento das instruções, assertivas
+em um algoritmo, a fim de viabilizar a implantação de um programa.
+Problema: É uma questão que foge de uma regra, desvio de percurso
+que impede atingir o objetivo desejado
+
+Técnicas de lógica de programação: 
+Técnica Linear: Modelo tradicional, não tem vínculo, estrutura hierárquica,
+programação de computadores. Execução sequenciada, Recursos limitados, Única
+dimensão.
+
+Técnica Estruturada: Organização, disposição e ordem dos elementos essenciais
+que compõem um corpo. Escrita, Entendimento, Validação e Manutenção.
+
+Técnica Modular: Controlada por um conjunto de regras. Partes independentes.
+Dados de entrada, processo de transformação e dados de saída.
+----------------------------------------------------------------------------
+Tipologia e Variáveis:
+
+Tipos de Dados primitivos: Numéricos(Inteiros ou Reais); 
+Caracteres: Tudo que não se representa com número;
+Lógico: Booleano(Verdadeiro - 1 e Falso - 0).
+
+Variáveis: É um tipo de estrutura mutável, que varia, inconstante, incerto
+e instável, muda valor, recebe valores diferentes. A variável está restrita
+ao seu tipo(inteiro, string etc).
+Papel de variável: Ação(Modificação de estado) e Controle(Vigiada, controle 
+de alguma estrutura ou função).
+
+Constante: Não muda, inalterável, invariável.
+
+Instruções primitivas: Variaveis e Constantes
+Unário ou Binário
+
+Instruções: São linguagens de palavras-chave, de uma determinada programação
+que tem por finalidade comandar um computador que ira tratar dados.
+
+Estruturas condicionais e operadores: Que expressa condição ou suposiçao, se
+satisfeita a condição a operação é executada. Se não for obedecida é uma exce
+çao da condição. Encadeada, 
+
+Estruturas de repetiçao: Laços: controle de fluxo, malhas de repetição, repeti
+ção, condição de parada = numéro de repetição ou condição satisfeita.
+Proporcionam Redução de linhas de codigo, compreensão facil, redução de erro.
+
+Vetores: É caracterizado por uma variavel dimencionada com tamanho pre fixado
+que ira receber N valores. Matriz Sequencia de tipos de dados
+
+Matrizes: Tabela organizada em linhas e colunas no formato M x N, onde M linha
+e N colunas. É uma coleção de variáveis contidas em memória e acessíveis
+através de índices que determinam a localização de cada elemento.
+
+Funções: Subprograma, subalgoritmo, função, bloco, método, sub-rotina.Similar
+ao conceito de matemática. São blocos de instruções que realizam tarefas espe
+cificas.
+
+Instruções de Entrada e Saída: Instruções que permitem entrada e saída de dados
+Impressão de dados do mundo abstrato, digital por meio de ação de alguma inter
+face.Saída programada: Condicional ou não. 
+Saída por interrupção: Definida pelos periféricos quando interrompe a execução
+-------------------------------------------------------------------------------
+
+Introdução a linguagem de programação: 
+Evolução que inicia-se pelo hardware e depois pelo software porque o primeiro
+limita o segundo.
+
+Problemas computacionais: Objeto de discussão que possui instruções passo a pa
+sso que são mais facilmente resolvíveis em ambiente computacional. 
+Problemas de decisão: Caracter lógico sim ou não, Ideia, Pertencimento
+Problemas de busca:Relacionamento Binário, Semelhante ao nome, Clique
+Problemas de otimização:maximizar ou minimizar uma função.
+
+O que é uma linguagem de programação: Método padronizado composto por um con
+junto de regras sintáticas e semânticas de implementação de um código fonte.
+Conjunto de palavras com regras.
+
+Como um computador entende um programa: Um programa é um amontoado de palavras
+senão for possível que o computador entenda. Compilação vai traduzir o 
+código(programa fonte linguagem alto nível) em 
+linguagem de máquina(programa objeto linguagem baixo nível). 
+Cógico fonte pode ser traduzido ou interpretado. Na tradução gera-se um pro
+grama objeto e a execução deste. Na interpretação o programa fonte é executado
+diretamente. Python é linguagem interpretada. A tradução que gera programa 
+objeto em linguagem de máquina é mais rápida, já a interpretação é mais flexivel
+
+Características de um programa: 
+Legibilidade: Facil leitura, compreenção, ortogonalidade(instruções coerentes),
+Definição adequada de estruturas.
+Redigibilidade: Falicidade de escrita, reuso de codigo, expressividade
+Confiabilidade: faz o que foi programado para fazer.
+Custo:Análise de impacto, treinamento, compilação, codigo, execução, 
+infra estrutura.
+
+
+
+
+
+
+
+
+
+
+
